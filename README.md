@@ -2,7 +2,7 @@
 ## Hi I'm Wilfrido 👋
 
 
-🧠Computer science proffesional and 👔 law proffesional <br/>
+🧠Computer science student and 👔 law professional <br/>
 🛡️Cybersecurity enthusiastic <br/>
 📚Long life learner <br/>
 Follower of Jesus [Instagram](https://www.instagram.com/wperezr2050/)
