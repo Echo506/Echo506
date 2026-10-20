@@ -8,7 +8,6 @@
 
 <br/>
 
-
 ### `whoami`
 
 - Computer science student and law professional
@@ -23,6 +22,7 @@
 
 <p align="left">
 <a href="https://discord.gg/wperezr" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://profile.hackthebox.com/profile/01a02b8f-edea-7234-9185-a980b6b9734e" target="_blank"><img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=HackTheBox&logoColor=9FEF00" /></a>
 <a href="https://www.facebook.com/wilfridocostarica" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
 <a href="https://instagram.com/wperezr2050" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/wilfridocostarica" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
